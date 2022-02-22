@@ -2,7 +2,7 @@ HEAD
 
 checkpoints/custom-416/variables/variables.data-00000-of-00001
 
-data/custom.weights
+
 data/video/uvas.mp4
 
 detections/results_uvas.avi
