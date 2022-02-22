@@ -1,11 +1,4 @@
-HEAD
-
 checkpoints/custom-416/variables/variables.data-00000-of-00001
-
-
 data/video/uvas.mp4
-
 detections/results_uvas.avi
 detections/results_uvas_count.avi
-
-
