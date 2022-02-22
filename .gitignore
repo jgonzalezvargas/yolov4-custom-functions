@@ -1,20 +1,10 @@
 HEAD
 checkpoints/custom-416/saved_model.pb
 checkpoints/custom-416/variables/variables.data-00000-of-00001
-checkpoints/custom-416/variables/variables.index
-config
-core/__pycache__/backbone.cpython-37.pyc
-core/__pycache__/common.cpython-37.pyc
-core/__pycache__/config.cpython-37.pyc
-core/__pycache__/functions.cpython-37.pyc
-core/__pycache__/utils.cpython-37.pyc
-core/__pycache__/yolov4.cpython-37.pyc
-core/config.py
-data/classes/custom.names
+
 data/custom.weights
 data/video/uvas.mp4
-description
-detect_video.py
+
 detections/results_uvas.avi
 detections/results_uvas_count.avi
 
