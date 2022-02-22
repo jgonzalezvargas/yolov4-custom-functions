@@ -1,5 +1,5 @@
 HEAD
-checkpoints/custom-416/saved_model.pb
+
 checkpoints/custom-416/variables/variables.data-00000-of-00001
 
 data/custom.weights
