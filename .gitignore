@@ -17,11 +17,5 @@ description
 detect_video.py
 detections/results_uvas.avi
 detections/results_uvas_count.avi
-hooks/applypatch-msg.sample
-hooks/commit-msg.sample
-hooks/fsmonitor-watchman.sample
-hooks/post-update.sample
-hooks/pre-applypatch.sample
-hooks/pre-commit.sample
-hooks/pre-merge-commit.sample
+
 
